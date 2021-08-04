@@ -1,0 +1,16 @@
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\bin\Debug\net5.0\HW5.exe
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\bin\Debug\net5.0\HW5.deps.json
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\bin\Debug\net5.0\HW5.runtimeconfig.json
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\bin\Debug\net5.0\HW5.runtimeconfig.dev.json
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\bin\Debug\net5.0\HW5.dll
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\bin\Debug\net5.0\ref\HW5.dll
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\bin\Debug\net5.0\HW5.pdb
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\obj\Debug\net5.0\HW5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\obj\Debug\net5.0\HW5.AssemblyInfoInputs.cache
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\obj\Debug\net5.0\HW5.AssemblyInfo.cs
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\obj\Debug\net5.0\HW5.csproj.CoreCompileInputs.cache
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\obj\Debug\net5.0\HW5.dll
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\obj\Debug\net5.0\ref\HW5.dll
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\obj\Debug\net5.0\HW5.pdb
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\obj\Debug\net5.0\HW5.genruntimeconfig.cache
+D:\Courses\C# base\CSharpBase\MyFirstProject\HW5\obj\Debug\net5.0\HW5.csproj.AssemblyReference.cache

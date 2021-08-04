@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Courses\\C# base\\CSharpBase\\MyFirstProject\\HW2\\HW2.csproj",
-      "projectName": "HW2",
-      "projectPath": "D:\\Courses\\C# base\\CSharpBase\\MyFirstProject\\HW2\\HW2.csproj",
+      "projectUniqueName": "D:\\Courses\\C# base\\CSharpBase\\MyFirstProject\\HW5\\HW5.csproj",
+      "projectName": "HW5",
+      "projectPath": "D:\\Courses\\C# base\\CSharpBase\\MyFirstProject\\HW5\\HW5.csproj",
       "packagesPath": "C:\\Users\\DENYSTITISHOV\\.nuget\\packages\\",
-      "outputPath": "D:\\Courses\\C# base\\CSharpBase\\MyFirstProject\\HW2\\obj\\",
+      "outputPath": "D:\\Courses\\C# base\\CSharpBase\\MyFirstProject\\HW5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DENYSTITISHOV\\AppData\\Roaming\\NuGet\\NuGet.Config",
